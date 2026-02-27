@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@company.com",
+    "department": "Human Resources",
+    "role": "hr"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@company.com",
+    "department": "Sales",
+    "role": "manager"
+  },
+  {
+    "id": 3,
+    "name": "David Brown",
+    "email": "david.brown@company.com",
+    "department": "IT",
+    "role": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emily.davis@company.com",
+    "department": "Finance",
+    "role": "employee"
+  },
+  {
+    "id": 5,
+    "name": "Michael Wilson",
+    "email": "michael.wilson@company.com",
+    "department": "Operations",
+    "role": "employee"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@company.com",
+    "department": "Marketing",
+    "role": "manager"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "email": "james.anderson@company.com",
+    "department": "IT",
+    "role": "employee"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Taylor",
+    "email": "sophia.taylor@company.com",
+    "department": "Human Resources",
+    "role": "hr"
+  },
+  {
+    "id": 9,
+    "name": "Daniel Thomas",
+    "email": "daniel.thomas@company.com",
+    "department": "Finance",
+    "role": "employee"
+  },
+  {
+    "id": 10,
+    "name": "Isabella Moore",
+    "email": "isabella.moore@company.com",
+    "department": "Sales",
+    "role": "employee"
+  },
+  {
+    "id": 11,
+    "name": "William Jackson",
+    "email": "william.jackson@company.com",
+    "department": "Operations",
+    "role": "admin"
+  },
+  {
+    "id": 12,
+    "name": "Mia White",
+    "email": "mia.white@company.com",
+    "department": "Marketing",
+    "role": "employee"
+  },
+  {
+    "id": 13,
+    "name": "Benjamin Harris",
+    "email": "benjamin.harris@company.com",
+    "department": "IT",
+    "role": "manager"
+  },
+  {
+    "id": 14,
+    "name": "Charlotte Martin",
+    "email": "charlotte.martin@company.com",
+    "department": "Finance",
+    "role": "employee"
+  },
+  {
+    "id": 15,
+    "name": "Lucas Thompson",
+    "email": "lucas.thompson@company.com",
+    "department": "Sales",
+    "role": "employee"
+  },
+  {
+    "id": 16,
+    "name": "Amelia Garcia",
+    "email": "amelia.garcia@company.com",
+    "department": "Human Resources",
+    "role": "employee"
+  },
+  {
+    "id": 17,
+    "name": "Henry Martinez",
+    "email": "henry.martinez@company.com",
+    "department": "Operations",
+    "role": "manager"
+  },
+  {
+    "id": 18,
+    "name": "Evelyn Robinson",
+    "email": "evelyn.robinson@company.com",
+    "department": "Marketing",
+    "role": "employee"
+  },
+  {
+    "id": 19,
+    "name": "Alexander Clark",
+    "email": "alexander.clark@company.com",
+    "department": "IT",
+    "role": "admin"
+  },
+  {
+    "id": 20,
+    "name": "Harper Rodriguez",
+    "email": "harper.rodriguez@company.com",
+    "department": "Finance",
+    "role": "employee"
+  }
+]
